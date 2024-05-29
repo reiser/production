@@ -1,4 +1,4 @@
-FROM php:7.3-fpm-alpine3.10
+FROM php:7.4-fpm-alpine3.10
 
 ENV COMPOSER_HOME=/var/cache/composer
 ENV PROJECT_ROOT=/sw6
